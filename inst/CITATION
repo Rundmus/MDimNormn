@@ -1,0 +1,19 @@
+citHeader("To cite package ’MDimNormn’ in publications use:")
+
+citEntry(entry="Article",
+title   = "Multidimensional normalization to minimize plate effects of suspension bead array data",
+author  = personList(as.person("Mun-Gwan Hong"),
+                    as.person("Woojoo Lee"),
+                    as.person(“Peter Nilsson“),
+                    as.person("Yudi Pawitan"),
+                    as.person("Jochen M. Schwenk")),
+journal = “J. Proteome Res.“,
+year    = "2016”,
+volume  = “15”,
+number  = “10”,
+pages   = “3473-3480”,
+textVersion =
+paste("Mun-Gwan Hong, Woojoo Lee, Peter Nilsson, Yudi Pawitan, Jochen M. Schwenk (2016)”,
+      "Multidimensional normalization to minimize plate effects of suspension bead array data”, 
+      “J. Proteome Res., 15(10) pp 3473-80”)
+)
