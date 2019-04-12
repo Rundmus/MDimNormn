@@ -1,5 +1,6 @@
 # MDimNormn-R_package
-Multidimensional normalization for batch effects
+Multi-dimensional normalization for batch effects
 
-This is a shared R codes for the normalization method that was described in the paper, [Hong, _et al_., 2016](https://doi.org/10.1021/acs.jproteome.5b01131)
-Multidimensional Normalization to Minimize Plate Effects of Suspension Bead Array Data, J Proteome Res..
+This package has the R codes for a normalization method for batch effects. Details are described in the paper, [Hong, _et al_., 2016](https://doi.org/10.1021/acs.jproteome.5b01131) Multidimensional Normalization to Minimize Plate Effects of Suspension Bead Array Data, J Proteome Res..
+This package is also available through CRAN with the name ["MDimNormn"](https://cran.r-project.org/web/packages/MDimNormn/index.html).
+
